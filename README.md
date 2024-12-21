@@ -1,2 +1,2 @@
 # New project
-Hi new exp project created from local system.
+Hello, new exp project created from local system.
